@@ -1,0 +1,12 @@
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\bin\Debug\net8.0\ESFE.Calculadora.deps.json
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\bin\Debug\net8.0\ESFE.Calculadora.dll
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\bin\Debug\net8.0\ESFE.Calculadora.pdb
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.AssemblyInfoInputs.cache
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.AssemblyInfo.cs
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.sourcelink.json
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.dll
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\obj\Debug\net8.0\refint\ESFE.Calculadora.dll
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.pdb
+C:\Users\yenif\source\repos\ESFE\ESFE.Calculadora\obj\Debug\net8.0\ref\ESFE.Calculadora.dll

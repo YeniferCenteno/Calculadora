@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ESFE.Calculadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70d4b5b875fc0d8eba1c2da9d6e4ccec00519de6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1478e430d57906c5f75935bd642f7f7afbf68e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESFE.Calculadora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESFE.Calculadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
