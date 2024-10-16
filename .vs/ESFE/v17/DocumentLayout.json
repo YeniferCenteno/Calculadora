@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\yenif\\source\\repos\\ESFE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83A9443E-5909-44FF-B8B8-2902129CAF5E}|ESFE.Calculadora.UnitTest.AppxUnit\\ESFE.Calculadora.UnitTest.AppxUnit.csproj|c:\\users\\yenif\\source\\repos\\esfe\\esfe.calculadora.unittest.appxunit\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A9443E-5909-44FF-B8B8-2902129CAF5E}|ESFE.Calculadora.UnitTest.AppxUnit\\ESFE.Calculadora.UnitTest.AppxUnit.csproj|solutionrelative:esfe.calculadora.unittest.appxunit\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A9443E-5909-44FF-B8B8-2902129CAF5E}|ESFE.Calculadora.UnitTest.AppxUnit\\ESFE.Calculadora.UnitTest.AppxUnit.csproj|c:\\users\\yenif\\source\\repos\\esfe\\esfe.calculadora.unittest.appxunit\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A9443E-5909-44FF-B8B8-2902129CAF5E}|ESFE.Calculadora.UnitTest.AppxUnit\\ESFE.Calculadora.UnitTest.AppxUnit.csproj|solutionrelative:esfe.calculadora.unittest.appxunit\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEEFA9AC-736D-4E82-8556-B1198464FE7C}|ESFE.Calculadora.UnitTest.AppMSTest\\ESFE.Calculadora.UnitTest.AppMSTest.csproj|c:\\users\\yenif\\source\\repos\\esfe\\esfe.calculadora.unittest.appmstest\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEEFA9AC-736D-4E82-8556-B1198464FE7C}|ESFE.Calculadora.UnitTest.AppMSTest\\ESFE.Calculadora.UnitTest.AppMSTest.csproj|solutionrelative:esfe.calculadora.unittest.appmstest\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,6 +44,32 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\ESFE\\ESFE.Calculadora.UnitTest.AppxUnit\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "ESFE.Calculadora.UnitTest.AppxUnit\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\yenif\\source\\repos\\ESFE\\ESFE.Calculadora.UnitTest.AppxUnit\\CalculatorTests.cs",
+              "RelativeToolTip": "ESFE.Calculadora.UnitTest.AppxUnit\\CalculatorTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:12:45.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\ESFE\\ESFE.Calculadora.UnitTest.AppxUnit\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "ESFE.Calculadora.UnitTest.AppxUnit\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\yenif\\source\\repos\\ESFE\\ESFE.Calculadora.UnitTest.AppxUnit\\GlobalUsings.cs",
+              "RelativeToolTip": "ESFE.Calculadora.UnitTest.AppxUnit\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:10:21.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTests.cs",
               "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\ESFE\\ESFE.Calculadora.UnitTest.AppMSTest\\CalculatorTests.cs",
               "RelativeDocumentMoniker": "ESFE.Calculadora.UnitTest.AppMSTest\\CalculatorTests.cs",
               "ToolTip": "C:\\Users\\yenif\\source\\repos\\ESFE\\ESFE.Calculadora.UnitTest.AppMSTest\\CalculatorTests.cs",
@@ -47,20 +81,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ESFE.Calculadora.UnitTest.AppMSTest",
+              "DocumentIndex": 5,
+              "Title": "ESFE.Calculadora.UnitTest.AppMSTest.csproj",
               "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\ESFE\\ESFE.Calculadora.UnitTest.AppMSTest\\ESFE.Calculadora.UnitTest.AppMSTest.csproj",
               "RelativeDocumentMoniker": "ESFE.Calculadora.UnitTest.AppMSTest\\ESFE.Calculadora.UnitTest.AppMSTest.csproj",
               "ToolTip": "C:\\Users\\yenif\\source\\repos\\ESFE\\ESFE.Calculadora.UnitTest.AppMSTest\\ESFE.Calculadora.UnitTest.AppMSTest.csproj",
               "RelativeToolTip": "ESFE.Calculadora.UnitTest.AppMSTest\\ESFE.Calculadora.UnitTest.AppMSTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T16:21:38.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T16:21:38.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\ESFE\\ESFE.Calculadora.UnitTest.AppMSTest\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "ESFE.Calculadora.UnitTest.AppMSTest\\GlobalUsings.cs",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "ESFE.Calculadora.UnitTest.AppMSTest\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T16:20:28.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T16:20:28.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\yenif\\source\\repos\\ESFE\\ESFE.Calculadora\\Calculator.cs",
               "RelativeDocumentMoniker": "ESFE.Calculadora\\Calculator.cs",
@@ -81,8 +113,7 @@
               "RelativeToolTip": "ESFE.Calculadora\\Calculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:18:44.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T14:18:44.074Z"
             }
           ]
         }

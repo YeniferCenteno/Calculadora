@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ESFE.Calculadora.UnitTest.AppMSTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1478e430d57906c5f75935bd642f7f7afbf68e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+169cd2cbd4925e76e8bee54c0c94e6e91513c8da")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESFE.Calculadora.UnitTest.AppMSTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESFE.Calculadora.UnitTest.AppMSTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
